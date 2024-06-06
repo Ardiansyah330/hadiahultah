@@ -10,5 +10,5 @@ document
     document.getElementsByClassName("popup")[0].classList.remove("active");
     setTimeout(function () {
       window.location.href = "asset/index.html";
-    }, 1000); // Anda bisa menyesuaikan delay ini jika perlu
+    }, 500); // Anda bisa menyesuaikan delay ini jika perlu
   });
